@@ -1,0 +1,4 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.navbar,.row{margin-right:30px;margin-left:30px}.end,.navbar{background-color:pink}.end,h1{text-align:center}h1,h3,span{color:purple}h1{font-family:Apple Chancery;margin-bottom:2%}.navbar,p{font-family:Ayuthaya}.navbar{border:none;padding:7px;font-size:18px}body{background-image:url(../images/background.jpg)}.end{position:fixed;bottom:0;left:25px;width:97%;border-radius:5px;padding-top:7px;padding-bottom:5px}span{font-family:Apple Chancery;font-size:50px}.height{height:470px}

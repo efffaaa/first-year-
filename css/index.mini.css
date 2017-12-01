@@ -1,0 +1,4 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.end,.navbar{background-color:pink}.end,h2{text-align:center}#myCarousel,body{background-image:url(../images/background.jpg)}.navbar{margin-right:30px;margin-left:30px;border:none;padding:7px;font-family:Ayuthaya;font-size:18px}h2,h3,span{font-family:Apple Chancery;color:purple}span{font-size:50px}.carousel{margin:2% 5% 3%}.end{position:fixed;bottom:0;left:25px;width:97%;border-radius:5px;padding-top:7px;padding-bottom:5px}.row{margin-left:5%;margin-right:5%}h2{font-size:40px}h3{font-size:50px;text-align:center}h1,p{text-align:center;font-family:Ayuthaya}h1{color:purple}.height{height:460px}.header{background:linear-gradient(pink,#fff);width:100%;height:70px;margin-bottom:8px;margin-top:0}

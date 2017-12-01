@@ -1,0 +1,63 @@
+@charset "UTF-8";
+/* CSS Document */
+
+ .row {
+	 margin-right: 30px;
+	 margin-left: 30px;
+ }
+ 
+ h1 {
+	 
+	 font-family: Apple Chancery;
+	 color: purple;
+	 text-align: center;
+	 margin-bottom:2%;
+ }
+  h3 {
+	  color: purple;
+  }
+ p {
+	font-family: Ayuthaya;
+	 
+}
+
+
+.navbar {
+	margin-right: 30px;
+	 margin-left: 30px;
+	 background-color: pink;
+	 border: none;
+	 padding: 7px 7px 7px 7px;
+	 font-family: Ayuthaya;
+	 font-size:18px;
+}
+
+body {
+	background-image:url(../images/background.jpg);
+}
+
+ 
+ .end {
+	 background-color: pink;
+	 position: fixed;
+	 bottom: 0px;
+	 left: 25px;
+	 width: 97%;
+	text-align: center;
+	border-radius: 5px;
+	padding-top: 7px;
+	padding-bottom: 5px;
+	
+	
+ }
+ 
+ 
+  span {
+	 font-family: Apple Chancery;
+	 font-size: 50px;
+	 color: purple;
+ }
+ 
+ .height {
+	 height:470px;
+ }

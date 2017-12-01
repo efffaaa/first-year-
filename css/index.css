@@ -1,0 +1,94 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.navbar {
+	margin-right: 30px;
+	 margin-left: 30px;
+	 background-color: pink;
+	 border: none;
+	 padding: 7px 7px 7px 7px;
+	 font-family: Ayuthaya;
+	 font-size:18px;
+
+}
+
+body {
+	background-image:url(../images/background.jpg);
+}
+
+ 
+ 
+ span {
+	 font-family: Apple Chancery;
+	 font-size: 50px;
+	 color: purple;
+ }
+ .carousel{
+	 margin-left: 5%;
+	 margin-right: 5%;
+	 margin-bottom: 3%;
+	 margin-top: 2%;
+ }
+ 
+ .end {
+	 background-color: pink;
+	 position: fixed;
+	 bottom: 0px;
+	 left: 25px;
+	 width: 97%;
+	text-align: center;
+	border-radius: 5px;
+	padding-top: 7px;
+	padding-bottom: 5px;
+	
+	
+ }
+ 
+ .row {
+	 margin-left: 5%;
+	 margin-right: 5%;
+ }
+ 
+h2 {
+	font-family:Apple Chancery;
+	color: purple;
+	font-size: 40px;
+	text-align:center;
+	
+}
+
+h3 {
+	font-family:Apple Chancery;
+	font-size: 50px;
+	
+	color: purple;
+	text-align: center;
+}
+#myCarousel {
+	background-image:url(../images/background.jpg);
+
+}
+h1 {
+color: purple;
+text-align: center;
+font-family: Ayuthaya;
+}
+
+.height {
+	height: 460px;
+}
+
+p {
+	text-align: center;
+	font-family: Ayuthaya;
+	
+	
+}
+
+.header {
+	background: linear-gradient(pink, white);
+	width: 100%;
+	height: 70px;
+	margin-bottom: 8px;
+	margin-top: 0px;
+}

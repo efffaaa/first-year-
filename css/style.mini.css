@@ -1,0 +1,4 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.end,.navbar{background-color:pink}h1,h2,span{color:purple}.end,h2,p{text-align:center}.navbar{margin-right:30px;margin-left:30px;border:none;padding:7px;font-family:Ayuthaya;font-size:18px}h1,h2,h3,p,span{font-family:Apple Chancery}body{background-image:url(../images/background.jpg)}.end{position:fixed;bottom:0;left:25px;width:97%;border-radius:5px;padding-top:7px;padding-bottom:5px}span{font-size:50px}.height{height:460px}p{font-size:16px}.space{height:650px}.related{margin-left:23px;margin-right:23px}

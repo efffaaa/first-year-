@@ -1,0 +1,70 @@
+@charset "UTF-8";
+/* CSS Document */
+	
+.navbar {
+	margin-right: 30px;
+	 margin-left: 30px;
+	 background-color: pink;
+	 border: none;
+	 padding: 7px 7px 7px 7px;
+	 font-family: Ayuthaya;
+	 font-size:18px;
+}
+
+body {
+	background-image:url(../images/background.jpg);
+}
+
+ 
+ 
+  .end {
+	 background-color: pink;
+	 position: fixed;
+	 bottom: 0px;
+	 left: 25px;
+	 width: 97%;
+	text-align: center;
+	border-radius: 5px;
+	padding-top: 7px;
+	padding-bottom: 5px;
+	
+  }
+  
+   span {
+	 font-family: Apple Chancery;
+	 font-size: 50px;
+	 color: purple;
+ }
+ 
+ h1 {
+	 color: purple;
+	 font-family: Apple Chancery;
+ }
+	
+h3 {
+	font-family: Apple Chancery;
+}
+
+h2 {
+	color: purple;
+	text-align: center;
+	font-family: Apple Chancery;
+}
+
+.height{
+	height: 460px;
+}
+
+p {
+	text-align: center;
+	font-family: Apple Chancery;
+	font-size: 16px;
+}
+
+.space {
+	height: 650px;
+}
+.related {
+	margin-left: 23px;
+	margin-right: 23px;
+}

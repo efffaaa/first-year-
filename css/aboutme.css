@@ -1,0 +1,73 @@
+@charset "UTF-8";
+/* CSS Document */
+p {
+	font-size:18px;
+	
+	font-family:Apple Chancery;
+}
+ h4 {
+	 color: black;
+ }
+ 
+ img {
+	 border-radius: 20px;
+ }
+ 
+ .container {
+	 background-color: white;
+	 border-radius: 8px;
+	 padding-bottom: 40px;
+	 
+ }
+
+ 
+.navbar {
+	margin-right: 30px;
+	 margin-left: 30px;
+	 background-color: pink;
+	 border: none;
+	 padding: 7px 7px 7px 7px;
+	 font-family: Ayuthaya;
+	 font-size:18px;
+}
+
+body {
+	background-image:url(../images/background.jpg);
+}
+
+ 
+ .end {
+	 background-color: pink;
+	 position: fixed;
+	 bottom: 0px;
+	 left: 25px;
+	 width: 97%;
+	text-align: center;
+	border-radius: 5px;
+	padding-top: 7px;
+	padding-bottom: 5px;
+	
+	
+ }
+  span {
+	 font-family: Apple Chancery;
+	 font-size: 50px;
+	 color: purple;
+ }
+ 
+  .height {
+	 height:600px;
+ }
+ 
+ strong {
+	 color: purple;
+	 font-family: Apple Chancery;
+	 font-size: 40px;
+ }
+ 
+ h2 {
+	 color: pink;
+	 font-family: Apple Chancery;
+	 font-size: 50px;
+ }
+	 

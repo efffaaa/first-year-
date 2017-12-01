@@ -1,0 +1,88 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.navbar {
+	margin-right: 30px;
+	 margin-left: 30px;
+	 background-color: pink;
+	 border: none;
+	 padding: 7px 7px 7px 7px;
+	 font-family: Ayuthaya;
+	 font-size:18px;
+
+}
+
+body {
+	background-image:url(../images/background.jpg);
+}
+
+/* footer */ 
+.end {
+	 background-color: pink;
+	 position: fixed;
+	 bottom: 0px;
+	 left: 25px;
+	 width: 97%;
+	text-align: center;
+	border-radius: 5px;
+	padding-top: 7px;
+	padding-bottom: 5px;
+	
+	
+ }
+ 
+  span {
+	 font-family: Apple Chancery;
+	 font-size: 50px;
+	 color: purple;
+ }
+
+
+
+.container {
+	
+	width: 50%;
+	position:absolute;
+	left:25%;
+	background-color: white;
+	border-radius: 8px;
+	padding-bottom: 40px;
+	 
+
+
+}
+.form-control {
+	background-color: #ffe6e6;
+	font-family:Apple Chancery;
+	padding: 10px 10px 10px 10px;
+}
+.form-group comment{
+margin-left: 60px;
+margin-right: 60px;
+	
+}
+h2 {
+	font-family: Apple Chancery;
+	color: purple;
+}
+
+.btn {
+	background-color: #ffe6f2;
+	font-family:Apple Chancery;
+	font-size: 18px;
+
+}
+
+.btn:hover {
+	background-color: white;
+	color: purple;
+}
+ p {
+	 font-family:Apple Chancery;
+	 font-size: 16px;
+ }
+ 
+ .height{
+	 height: 700px;
+ }
+	 

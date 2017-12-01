@@ -1,0 +1,4 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.end,.navbar{background-color:pink}.btn:hover,h2,span{color:purple}.navbar{margin-right:30px;margin-left:30px;border:none;padding:7px;font-family:Ayuthaya;font-size:18px}.btn,.form-control,h2,p,span{font-family:Apple Chancery}body{background-image:url(../images/background.jpg)}.end{position:fixed;bottom:0;left:25px;width:97%;text-align:center;border-radius:5px;padding-top:7px;padding-bottom:5px}span{font-size:50px}.container{width:50%;position:absolute;left:25%;background-color:#fff;border-radius:8px;padding-bottom:40px}.form-control{background-color:#ffe6e6;padding:10px}.form-group comment{margin-left:60px;margin-right:60px}.btn{background-color:#ffe6f2;font-size:18px}.btn:hover{background-color:#fff}p{font-size:16px}.height{height:700px}
